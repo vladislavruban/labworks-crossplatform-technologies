@@ -1,4 +1,4 @@
-package crossplatform.tech;
+package labworks.lab1;
 
 public class Main {
 
